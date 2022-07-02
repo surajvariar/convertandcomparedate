@@ -6,4 +6,11 @@ Sample Go Code to convert timestamp in ISO8601 format and compare if the given t
 -Convert String TimeStamp
 -Check if the given Time falls between Start and End Time Specified
 
+## Packages Used
+
+```sh
+fmt
+time
+```
+
 
